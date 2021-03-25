@@ -2,7 +2,7 @@
 
 <img src="images/LeetCode.png" width='20' height='20'> [LeetCode](https://leetcode.com/KiranUpase/)
 
-<img src='images/LinkedIn2.png' width='20'> [Linked](https://www.linkedin.com/in/kiranupase/)
+<img src='images/LinkedIn2.png' width='20'> [Linkedin](https://www.linkedin.com/in/kiranupase/)
 
 <!--
 [<img src="images/LeetCode.png" width='20' height='20'> ](https://leetcode.com/KiranUpase/)
