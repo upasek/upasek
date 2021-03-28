@@ -7,7 +7,6 @@ Always curious about New technologies and programming World.
 Website : [upasek.github.io](https://upasek.github.io/)
 
 <img src='images/LinkedIn2.png' width='20'> [Linkedin](https://www.linkedin.com/in/kiranupase/)
-<img src="images/LeetCode.png" width='20' height='20'> [LeetCode](https://leetcode.com/KiranUpase/)
 <img src='images/Twitter.png' width='20'> [Twitter](https://twitter.com/Kiranupase86)
 
 <!--
@@ -26,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <img src="images/LeetCode.png" width='20' height='20'> [LeetCode](https://leetcode.com/KiranUpase/)
 -->
