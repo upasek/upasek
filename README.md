@@ -7,6 +7,9 @@ Always curious about New technologies and programming World.
 Website : [upasek.github.io](https://upasek.github.io/)
 
 <img src='images/LinkedIn2.png' width='20'> [Linkedin](https://www.linkedin.com/in/kiranupase/)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img src='images/mail.png' width='30'> [Mail](mailto:kvsupase@gmail.com)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img src='images/Twitter.png' width='20'> [Twitter](https://twitter.com/Kiranupase86)
 
 <!--
