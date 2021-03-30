@@ -1,4 +1,4 @@
-### Hi, I'm Kiran Upase !:wave:
+### Hi, I'm Kiran Upase !<img width="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 <img align="right" width="120" src="https://learncodeonline.in/mascot.png">
 
