@@ -1,16 +1,16 @@
-### Hi, I'm Kiran Upase ! 👋
+### Hi, I'm Kiran Upase !:wave:
 
 I'm a Computer Science Student, lifelong-learner.
 
 Always curious about New technologies and programming World.
 
-Website : [upasek.github.io](https://upasek.github.io/)
+**Website :** [upasek.github.io](https://upasek.github.io/)
 
-<img src='images/LinkedIn2.png' width='20'> [Linkedin](https://www.linkedin.com/in/kiranupase/)
+[<img src='images/LinkedIn2.png' width='20'>](https://www.linkedin.com/in/kiranupase/ "LinkedIn")
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img src='images/mail.png' width='30'> [Mail](mailto:kvsupase@gmail.com)
+[<img src='images/mail.png' width='30'>](mailto:kvsupase@gmail.com "Mail")
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img src='images/Twitter.png' width='20'> [Twitter](https://twitter.com/Kiranupase86)
+[<img src='images/Twitter.png' width='20'>](https://twitter.com/Kiranupase86 "Twitter")
 
 <!--
 [<img src="images/LeetCode.png" width='20' height='20'> ](https://leetcode.com/KiranUpase/)
