@@ -1,6 +1,6 @@
 ### Hi, I'm Kiran Upase !<img width="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-<img align="right" width="120" src="https://learncodeonline.in/mascot.png">
+<img align="right" width="130" src="https://learncodeonline.in/mascot.png">
 
 I'm a Computer Science Student, lifelong-learner.
 
