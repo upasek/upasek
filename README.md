@@ -1,6 +1,6 @@
 ### Hi, I'm Kiran Upase !<img width="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-<img align="right" width="130" src="https://learncodeonline.in/mascot.png">
+<img align="right" width="100" src="https://learncodeonline.in/mascot.png">
 
 Software Engineer | lifelong learner | Always curious about New Technologies and Programming World.
 
@@ -9,16 +9,13 @@ Software Engineer | lifelong learner | Always curious about New Technologies and
 
 
 <a href="https://www.linkedin.com/in/kiranupase" rel="nofollow">
-<img height="30" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/linkedin/linkedin.svg" data-canonical-src="https://img.shields.io/badge/linkedin-blue.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
+<img height="30" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/linkedin/linkedin.svg" data-canonical-src="https://img.shields.io/badge/linkedin-blue.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:80%;">
 </a>
-
-
 <a href="mailto:kvsupase@gmail.com" rel="nofollow">
-<img height="30" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/gmail/gmail.svg" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;">
+<img height="30" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/gmail/gmail.svg" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:80%;">
 </a>
-
 <a href="https://twitter.com/Kiranupase86" rel="nofollow">
-<img height="30" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/twitter/twitter.svg" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;">
+<img height="30" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/twitter/twitter.svg" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:80%;">
 </a>
 
 
