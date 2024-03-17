@@ -2,9 +2,7 @@
 
 <img align="right" width="130" src="https://learncodeonline.in/mascot.png">
 
-I'm a Computer Science Student, lifelong-learner.
-
-Always curious about New technologies and programming World.
+Software Engineer | lifelong learner | Always curious about New Technologies and Programming World.
 
 **Website :** [upasek.github.io](https://upasek.github.io/)
 
