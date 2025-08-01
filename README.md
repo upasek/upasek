@@ -2,7 +2,7 @@
 
 <img align="right" width="100" src="https://learncodeonline.in/mascot.png">
 
-Software Engineer | lifelong learner | Always curious about New Technologies and Programming World.
+Software Engineer with 2 years of experience developing scalable backend systems, and real-time data pipelines. Skilled in Java, Python, and cloud-native technologies. Known for delivering robust, production-grade solutions in Agile environments, with a strong focus on reliability, performance, and seamless integration across systems.
 
 **Website :** [upasek.github.io](https://upasek.github.io/)
 
